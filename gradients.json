@@ -1057,5 +1057,9 @@
     {
         "name": "Selenium",
         "colors": ["#3C3B3F", "#605C3C"]
+    },
+    {
+        "name": "MoneyLion",
+        "colors": ["#19b5c1", "#28c88c"]
     }
 ]
